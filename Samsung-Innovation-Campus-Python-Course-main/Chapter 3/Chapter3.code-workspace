@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../projects/python_logic_practice"
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"pivotpoint"
+		]
+	}
+}
